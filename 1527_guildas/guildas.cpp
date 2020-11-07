@@ -13,6 +13,11 @@ int findGuilda(int player, set<int> guildas[], int tam){
     return -1;
 }
 
+int unificaGuilda(set<int> guildas[], int tam, int guildaA, int guildaB){
+    return -1;
+}
+
+
 int main() {
     int tam, rounds;
     cin >> tam >> rounds;
