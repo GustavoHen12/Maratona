@@ -18,6 +18,8 @@ int main(){
         i++;
     }
 
+    
+
     cout << total << endl;
     return 0;
 }
